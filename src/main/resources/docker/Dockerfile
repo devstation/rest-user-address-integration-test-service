@@ -5,7 +5,7 @@ EXPOSE 8080
 WORKDIR /app
 
 # adds the jar file to the container
-ADD rest-user-service.jar /app/rest-user-service.jar
+ADD rest-uai-test.jar /app/rest-uai-test.jar
 
 # add wrapper script
 ADD start.sh /app/start.sh

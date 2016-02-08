@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar rest-user-service.jar
+web: java -Dserver.port=$PORT -jar rest-uai-test.jar

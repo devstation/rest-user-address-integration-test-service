@@ -8,13 +8,13 @@
   <artifactId>rest-user-address-integration-test</artifactId>
   <version>0.1-SNAPSHOT</version>
 
-  <name>RESt User Service</name>
-  <description>Article Demos - RESt User Service</description>
+  <name>ruait</name>
+  <description>Article Demos - RESt User/Address Integration Test</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.java.version>1.8</project.java.version>
-    <artifact.name>${project.artifactId}</artifact.name>
+    <artifact.name>rest-uai-test</artifact.name>
     <start-class>de.devstation.demo.ruait.Bootstrap</start-class>
   </properties>
 

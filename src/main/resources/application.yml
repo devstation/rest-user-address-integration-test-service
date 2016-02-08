@@ -1,0 +1,3 @@
+integration.test:
+  addressServiceRestEndpoint: http://localhost:8081/address/
+  userServiceRestEndpoint: http://localhost:8080/user/

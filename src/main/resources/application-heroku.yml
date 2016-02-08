@@ -1,0 +1,3 @@
+integration.test:
+  addressServiceRestEndpoint: http://rest-address-service.herokuapp.com/address/
+  userServiceRestEndpoint: http://rest-user-service.herokuapp.com/user/

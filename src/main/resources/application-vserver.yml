@@ -1,0 +1,3 @@
+integration.test:
+  addressServiceRestEndpoint: http://37.120.174.107:8092/address/
+  userServiceRestEndpoint: http://37.120.174.107:8091/user/
